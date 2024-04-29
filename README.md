@@ -21,7 +21,7 @@
    <img width="200" alt="Screenshot 2024-04-29 at 4 14 54 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/08854fbe-2f4c-4791-96b6-626a091c3693"> <img width="200" alt="Screenshot 2024-04-29 at 5 22 43 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/c0f1145a-8d7a-499f-8b9e-e44ebd91a8bb">
 
    
-3. **Setting Page**
+3. **Settings Page**
 
    
    <img width="400" alt="Screenshot 2024-04-29 at 4 15 14 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/b41ed2ad-1cd0-42fe-939f-8c73b1f8fc93">
