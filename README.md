@@ -13,6 +13,26 @@
 **🛠️How to install:**
 1. **Click on the following link:** [ASIN Fetcher Chrome Extension](https://chromewebstore.google.com/detail/asin-fetcher/gghbpobllgpdhiijbnnnhciidcijgpad)
 2. **Install:** Once the link opens in your web browser, click on the "Add to Chrome" button to install the extension.
+
+**Extension Screenshots**
+1. **Main User Interface:**
+
+   
+   <img width="200" alt="Screenshot 2024-04-29 at 4 14 54 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/08854fbe-2f4c-4791-96b6-626a091c3693"> <img width="200" alt="Screenshot 2024-04-29 at 5 22 43 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/c0f1145a-8d7a-499f-8b9e-e44ebd91a8bb">
+
+   
+3. **Setting Page**
+
+   
+   <img width="400" alt="Screenshot 2024-04-29 at 4 15 14 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/b41ed2ad-1cd0-42fe-939f-8c73b1f8fc93">
+
+4. **Market list**
+
+   <img width="400" alt="Screenshot 2024-04-29 at 5 19 56 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/98ada3f9-847b-4483-afb2-585f5df72bf7">
+
+
+
+
   
 
 
