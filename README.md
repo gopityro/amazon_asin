@@ -23,13 +23,13 @@
    <img width="200" alt="Screenshot 2024-04-29 at 4 14 54 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/08854fbe-2f4c-4791-96b6-626a091c3693"> <img width="200" alt="Screenshot 2024-04-29 at 5 22 43 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/c0f1145a-8d7a-499f-8b9e-e44ebd91a8bb">
 
    
-3. **Settings Page**
+2. **Settings Page**
 
    
    <img width="1000" alt="Screenshot 2024-05-01 at 1 55 31 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/cbb6b7a2-6e25-4d3c-8912-f362c2f3a4f8">
 
 
-4. **Market list**
+3. **Market list**
 
    <img width="1000" alt="Screenshot 2024-05-01 at 1 55 57 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/d14a5335-b68e-4dfc-86f8-df9e086c9ea6">
 
