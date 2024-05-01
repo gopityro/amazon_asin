@@ -17,10 +17,11 @@
 **Extension Screenshots**
 1. **Main User Interface:**
 
-<img width="1000" alt="Screenshot 2024-05-01 at 1 55 05 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/7620718d-1527-4256-a9d8-ed1a865a91b7">
+<img width="1000" alt="Screenshot 2024-05-01 at 4 54 34 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/5be73c46-0332-4bf2-947e-779e9005e9fd">
+
+<img width="1000" alt="Screenshot 2024-05-01 at 4 54 50 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/05e8e297-a1bb-4bb4-845f-d9a8820b15f4">
 
 
-<img width="200" alt="Screenshot 2024-04-29 at 4 14 54 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/08854fbe-2f4c-4791-96b6-626a091c3693"> <img width="200" alt="Screenshot 2024-04-29 at 5 22 43 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/c0f1145a-8d7a-499f-8b9e-e44ebd91a8bb">
 
    
 2. **Settings Page**
