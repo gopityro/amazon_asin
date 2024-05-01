@@ -19,8 +19,8 @@
 
 <img width="1000" alt="Screenshot 2024-05-01 at 1 55 05 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/7620718d-1527-4256-a9d8-ed1a865a91b7">
 
-   
-   <img width="500" alt="Screenshot 2024-04-29 at 4 14 54 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/08854fbe-2f4c-4791-96b6-626a091c3693"> <img width="500" alt="Screenshot 2024-04-29 at 5 22 43 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/c0f1145a-8d7a-499f-8b9e-e44ebd91a8bb">
+
+<img width="500" alt="Screenshot 2024-04-29 at 4 14 54 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/08854fbe-2f4c-4791-96b6-626a091c3693"> <img width="500" alt="Screenshot 2024-04-29 at 5 22 43 PM" src="https://github.com/gopityro/amazon_asin/assets/25153647/c0f1145a-8d7a-499f-8b9e-e44ebd91a8bb">
 
    
 2. **Settings Page**
