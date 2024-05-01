@@ -1,5 +1,6 @@
 # Amazon ASIN Fetcher
-**🅾️verview:** This Chrome extension tool is developed to assist Amazon sellers in quickly accessing product pages
+## **🅾️verview:**
+This Chrome extension tool is developed to assist Amazon sellers in quickly accessing product pages
 
 ## **🤖 How to use:**
 1. **Select Market:** By default, the extension is configured to support amazon.in and amazon.com. Users can choose their preferred marketplace from the "Select Market" drop-down option.
